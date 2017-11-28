@@ -2,17 +2,10 @@ package com.example.Junit;
 
 import static org.junit.Assert.*;
 
-import org.junit.Before;
 import org.junit.Test;
 
 public class StringHelperTest {
-	
-	StringHelper helper;
-	
-	@Before
-	public void setup() {
-		helper = new StringHelper();
-	}
+	StringHelper helper = new StringHelper();
 	
 	@Test
 	public void testTruncateAinFirst2Positions_AinFirst2Positions() {
