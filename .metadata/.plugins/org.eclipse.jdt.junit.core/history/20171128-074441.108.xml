@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="StringHelperParametrizedTest" project="JUnitCourse" tests="12" started="12" failures="0" errors="0" ignored="0">
+  <testsuite name="com.example.Junit.StringHelperParametrizedTest" time="0.001">
+    <testsuite name="[0]" time="0.001">
+      <testcase name="testTruncateAinFirst2Positions_AinFirstPosition[0]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_BasicNegativeScenario[0]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_TwoCharacterPositiveScenario[0]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testTruncateAinFirst2Positions_AinFirst2Positions[0]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_BasicPositiveScenario[0]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_SingleCharacterNegativeScenario[0]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+    </testsuite>
+    <testsuite name="[1]" time="0.0">
+      <testcase name="testTruncateAinFirst2Positions_AinFirstPosition[1]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_BasicNegativeScenario[1]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_TwoCharacterPositiveScenario[1]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testTruncateAinFirst2Positions_AinFirst2Positions[1]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_BasicPositiveScenario[1]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+      <testcase name="testAreFirstAndLastTwoCharactersTheSame_SingleCharacterNegativeScenario[1]" classname="com.example.Junit.StringHelperParametrizedTest" time="0.0"/>
+    </testsuite>
+  </testsuite>
+</testrun>
