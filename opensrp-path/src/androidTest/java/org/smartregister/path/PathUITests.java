@@ -50,4 +50,12 @@ public class PathUITests {
         SystemClock.sleep(1000);
         onView(withText(R.string.unauthorized)).check(matches(isDisplayed()));
     }
+
+    @Test
+    public void testVaccineCardOpensWhenPatientIsTapped() {
+
+        // ensure you have a child named Bonoko otherwise this fails
+        onView(withText("Bonoko")).perform(click());
+        onView(withId(R.id.profile_image_iv)).check(matches(isDisplayed()));
+    }
 }
