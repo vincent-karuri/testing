@@ -984,7 +984,6 @@ public class ChildImmunizationActivity extends BaseActivity
                 dialogOpen = false;
             }
         });
-
     }
 
     private void addServiceDialogFragment(ServiceWrapper serviceWrapper, ServiceGroup serviceGroup) {

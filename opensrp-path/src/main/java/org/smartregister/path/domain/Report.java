@@ -1,6 +1,8 @@
 package org.smartregister.path.domain;
 
-import org.codehaus.jackson.annotate.JsonProperty;
+
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 import org.joda.time.DateTime;
 
 import java.util.List;

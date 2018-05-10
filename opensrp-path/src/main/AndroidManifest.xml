@@ -164,6 +164,9 @@
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeNoTitle.NoActionBar" />
 
+        <instrumentation
+            android:name="android.support.test.runner.AndroidJUnitRunner"
+            android:targetPackage="org.smartregister.path" />
     </application>
 
 </manifest>
